@@ -1,6 +1,6 @@
 # Distance Converter
 A simple distance converter from kilometers to miles, meters, and centimeters using the Kivy library.
-![Логотип](pictures/img_1.png)
+![Логотип](pictures/img.png)
 
 ## Getting Started:
 

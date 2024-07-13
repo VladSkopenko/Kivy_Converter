@@ -14,7 +14,8 @@ class MyApp(App):
 
     def __init__(self):
         super().__init__()
-        self.label = Label(text='Конвертер')
+        self.title = 'Конвертер'
+        self.label = Label(text='Введіть значення (км)')
         self.miles = Label(text='Милі')
         self.metres = Label(text='Метри')
         self.santimetres = Label(text='Сантиметрм')
